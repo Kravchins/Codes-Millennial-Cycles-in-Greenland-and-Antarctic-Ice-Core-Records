@@ -1,5 +1,5 @@
 # Codes-Millennial-Cycles-in-Greenland-and-Antarctic-Ice-Core-Records
-MATLAB Code for Millennial-Scale Spectral Analysis of Ice Core Data
+MATLAB Codes for Millennial-Scale Spectral Analysis of Ice Core Data and LODE algorithm for calculating the ice cover and temperature
 
 (1) Synchrosqueezing Transform and Ridge Extraction for paleoclimate records; (2) Logistic delay-differential equation (LODE) algorithm for calculating the ice cover and temperature.
 
