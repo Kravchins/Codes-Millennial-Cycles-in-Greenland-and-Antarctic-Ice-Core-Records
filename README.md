@@ -17,4 +17,4 @@ This script was tested to run in Matlab R2024a with dependencies on the wavelet 
 
 The main script loads data, performs the necessary computations, and plots out the results of both the ridge extraction and the windowed reconstruction.
 
-Please ensure the main script, along with both functions (coi and red noise), are added to your working path, along with the CSV file containing sample synthetic data.
+Please ensure the main script, along with both functions (coi and red noise), are added to your working path, along with the XLS file containing sample synthetic data.
