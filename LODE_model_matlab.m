@@ -8,7 +8,7 @@
 % http//
 % Questions/suggestions to vadim@ualberta.ca
 
-clc; clear; close all;
+clc; clear; close all; % Clear workspace and close figures
 
 %% Constants
 time_offset = -9;   % If time_offset more negative, peaks shifted to more remote past
