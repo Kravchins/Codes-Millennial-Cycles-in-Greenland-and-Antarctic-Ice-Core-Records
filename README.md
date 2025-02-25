@@ -10,7 +10,7 @@ Kravchinsky,V.A., Zhang,R., Borowiecki,R., Goguitchaichvili,A., Czarnecki,J., Cz
 
 Questions/suggestions to vadim@ualberta.ca
 
-This script was tested to run in Matlab R2024a with dependencies on the wavelet toolbox and SST toolbox from https://github.com/ebrevdo/synchrosqueezing/tree/master. Download the folder "synchrosqueezing" from https://github.com/ebrevdo/synchrosqueezing/tree/master and place this folder in your folder with the codes and input data.
+This script was tested to run in Matlab R2024a with dependencies on the wavelet toolbox and SST toolbox. Download the folder "synchrosqueezing" from https://github.com/ebrevdo/synchrosqueezing/tree/master and place this folder in your folder with the codes and input data.
 
 The main script loads data, performs the necessary computations, and plots out the results of both the ridge extraction and the windowed reconstruction.
 
