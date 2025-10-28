@@ -2,8 +2,8 @@
 %% Any use of this code must refer to
 % Kravchinsky,V.A., Zhang,R., Borowiecki,R., Goguitchaichvili,A., Czarnecki,J., Czarnecki,A., Boers,N., Berger,A., & van der Baan,M. (2025)
 % Millennial Cycles in Greenland and Antarctic Ice Core Records: Evidence of Astronomical Influence on Global Climate
-% Journal of Geophysical Research: Atmospheres
-% http//
+% Journal of Geophysical Research: Atmospheres, 130(7), e2024JD042810. 
+% https://doi.org/10.1029/2024JD042810
 % Questions/suggestions to vadim@ualberta.ca
 
 % Initialization and Data Import
@@ -636,5 +636,6 @@ for i = 1:length(xrec_all)
     % Add a legend
     legend('Power Spectrum', 'Significance Level (sig95)');
 end
+
 
 %% The end of the code
